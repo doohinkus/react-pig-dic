@@ -28,10 +28,7 @@ class Game extends Component{
     }
     this.roll = this.roll.bind(this);
     this.hold = this.hold.bind(this);
-    // this.startGame = this.startGame.bind(this);
     this.checkScore = this.checkScore.bind(this);
-    // this.computerPlay = this.computerPlay.bind(this);
-
   }
 
 
@@ -72,7 +69,6 @@ class Game extends Component{
          })
        }, () => {
          this.checkScore(playerIndex);
-        //  this.computerPlay();
        });
      }
 
@@ -96,13 +92,9 @@ class Game extends Component{
       })
     }, () => {
       this.checkScore(playerIndex);
-      // this.computerPlay();
-
     });
   }
   checkScore(playerIndex){
-    // this.computerPlay();
-
     if (this.state.players[playerIndex].score >= 100){
       this.setState({
         players: this.state.players.map((player, index)=>{
@@ -129,10 +121,10 @@ class Game extends Component{
         if (this.state.players[1].runningTotal<=roll){
 
           this.roll(1);
-          console.log("roll");
+
         }else{
           this.hold(1);
-          console.log("hold");
+
 
         }
       }
@@ -164,7 +156,7 @@ class Game extends Component{
    });
    return (
      <div>
-       <div className="flex padding center">
+       <div className="fl w-100 pa2 tc">
          {players}
        </div>
      </div>

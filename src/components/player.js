@@ -3,8 +3,8 @@ class Player extends Component {
 
   render() {
     return (
-      <div className={this.props.playing ? 'player modal' : 'player'}>
-        <h2 className={this.props.victory===true ? '' : 'hidden'}>
+      <div className={this.props.playing===true ? 'fl w-50 pa2 tc' : 'fl w-50 pa2 tc'}>
+        <h2 className={this.props.victory===true ? '' : 'hide'}>
           Wins the Game!!!!!!
         </h2>
         <h1>{this.props.name}</h1>
@@ -14,9 +14,9 @@ class Player extends Component {
         <p>{this.props.runningTotal}</p>
         <h2>Score</h2>
         <p>{this.props.score}</p>
-        <div className={this.props.playing===true && this.props.showButtons ? '' : 'hidden'}>
-          <button onClick={this.props.onClickRoll}>Roll</button>
-          <button onClick={this.props.onClickHold}>Hold</button>
+        <div className={this.props.playing===true && this.props.showButtons ? '' : 'hide'}>
+          <a onClick={this.props.onClickRoll} className="f6 link dim ph3 mh3 pv2 mb2 dib white bg-hot-pink pointer">Roll</a>
+          <a onClick={this.props.onClickHold} className="f6 link dim ph3 pv2 mb2 dib white bg-dark-blue pointer">Hold</a>
         </div>
       </div>
     );

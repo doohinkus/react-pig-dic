@@ -1,0 +1,7 @@
+@import "tachyons";
+.pointer:hover {
+  cursor: pointer;
+}
+.hide {
+  display: none;
+}
