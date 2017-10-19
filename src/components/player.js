@@ -3,7 +3,7 @@ class Player extends Component {
 
   render() {
     return (
-      <div className={this.props.playing===true ? 'fl w-50 pa2 tc' : 'fl w-50 pa2 tc'}>
+      <div className={this.props.playing===true ? 'fl w-50-ns w-100 pa2 tc bg-light-yellow' : 'fl w-50-ns w-100 pa2 tc'}>
         <h2 className={this.props.victory===true ? '' : 'hide'}>
           Wins the Game!!!!!!
         </h2>
@@ -15,8 +15,8 @@ class Player extends Component {
         <h2>Score</h2>
         <p>{this.props.score}</p>
         <div className={this.props.playing===true && this.props.showButtons ? '' : 'hide'}>
-          <a onClick={this.props.onClickRoll} className="f6 link dim ph3 mh3 pv2 mb2 dib white bg-hot-pink pointer">Roll</a>
-          <a onClick={this.props.onClickHold} className="f6 link dim ph3 pv2 mb2 dib white bg-dark-blue pointer">Hold</a>
+          <a onClick={this.props.onClickRoll} className="f6 link dim ph3 mr3 pv2 mb2 dib white bg-hot-pink pointer">Roll</a>
+          <a onClick={this.props.onClickHold} className="f6 link dim ph3 pv2 mb2 dib white bg-dark-gray pointer">Hold</a>
         </div>
       </div>
     );
