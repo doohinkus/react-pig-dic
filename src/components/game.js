@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Player from "./player";
+import Buttons from "./buttons";
 
 class Game extends Component{
   constructor(props){
@@ -34,15 +35,19 @@ class Game extends Component{
 
   roll(playerIndex){
      let dice = Math.floor((Math.random()*6)+1);
-     let runningTotal = this.state.players[playerIndex].runningTotal + dice;
-     if (dice > 1 && this.state.players[playerIndex].playing){
+     let dice2 = Math.floor((Math.random()*6)+1);
+     let runningTotal = this.state.players[playerIndex].runningTotal + dice + dice2;
+
+     if ((dice > 1 && dice2 > 1) && this.state.players[playerIndex].playing){
        this.setState({
          players: this.state.players.map((player, index)=>{
            if (index === playerIndex){
              console.log(index)
              return {
                ...player,
-               roll:dice,
+               roll: dice + dice2,
+               dice: dice,
+               dice2: dice2,
                runningTotal: runningTotal
              }
            }
@@ -59,6 +64,8 @@ class Game extends Component{
                ...player,
                runningTotal: 0,
                roll: 1,
+               dice: dice,
+               dice2: dice2,
                playing: false
              }
            }
@@ -140,6 +147,8 @@ class Game extends Component{
           key={index}
           name={player.playerName}
           roll={player.roll}
+          dice = {player.dice}
+          dice2 = {player.dice2}
           runningTotal={player.runningTotal}
           score={player.score}
           playing={player.playing}
@@ -155,11 +164,9 @@ class Game extends Component{
       )
    });
    return (
-     <div>
-       <div className="fl w-100 pa2 tc">
+       <div className="tc">
          {players}
        </div>
-     </div>
    )
  }
 }
