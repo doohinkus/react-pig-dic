@@ -1,4 +1,8 @@
 @import "tachyons";
+@import url('https://fonts.googleapis.com/css?family=Rubik:900');
+.rubik {
+  font-family: 'Rubik', sans-serif !important;
+}
 .pointer:hover {
   cursor: pointer;
 }
@@ -8,4 +12,7 @@
 .center{
   margin-left: auto;
   margin-right: auto;
+}
+.gray-scale{
+  filter: grayscale(100%);
 }

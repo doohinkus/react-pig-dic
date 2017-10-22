@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import Player from "./player";
 import Buttons from "./buttons";
-
+// add new game button
 class Game extends Component{
   constructor(props){
     super(props);
     this.state = {
       players: [
         {
-           playerName: "One",
+           playerName: "Human",
            roll: 0,
            score: 0,
            runningTotal: 0,
@@ -17,7 +17,7 @@ class Game extends Component{
            showButtons: true
         },
         {
-           playerName: "Hal",
+           playerName: "Computer",
            roll: 0,
            score: 0,
            runningTotal: 0,
@@ -126,13 +126,9 @@ class Game extends Component{
       let roll = Math.floor((Math.random()*20)+1);
       if (this.state.players[1].playing ){
         if (this.state.players[1].runningTotal<=roll){
-
           this.roll(1);
-
         }else{
           this.hold(1);
-
-
         }
       }
   }, 1000);
@@ -164,7 +160,7 @@ class Game extends Component{
       )
    });
    return (
-       <div className="tc">
+       <div className="tc rubik cf vh-20">
          {players}
        </div>
    )
