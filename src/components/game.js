@@ -109,6 +109,7 @@ class Game extends Component{
             return {
               ...player,
               victory: true,
+              playerName: 'Winner!!!',
               playing: false
             }
           }
@@ -121,17 +122,23 @@ class Game extends Component{
     }
     console.log("score: ", this.state.players[playerIndex].score, this.state.players[playerIndex].victory);
   }
+  computerRoll(){
+    let roll = Math.floor(Math.random() * 12 + 12);
+    if (this.state.players[1].score >= 85){
+      roll = 12;
+    }
+    if (this.state.players[1].playing ){
+      if (this.state.players[1].runningTotal<=roll){
+        this.roll(1);
+      }else{
+        this.hold(1);
+      }
+    }
+  }
   componentDidMount(){
     this.interval = setInterval(()=>{
-      let roll = Math.floor((Math.random()*20)+1);
-      if (this.state.players[1].playing ){
-        if (this.state.players[1].runningTotal<=roll){
-          this.roll(1);
-        }else{
-          this.hold(1);
-        }
-      }
-  }, 1000);
+     this.computerRoll();
+  }, 1500);
   }
   componentWillUnmount(){
     clearInterval(this.interval);
