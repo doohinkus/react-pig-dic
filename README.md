@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+#This project is still being developed. However, the mvp is playable. I'm working on the layout and images. I used Tachyons for the styling, but regret that choice. Nevertheless, I will continue to build out the project with "pure styles". Please check back.
+
+Here is link to the project on surge: [Reach Pig Dice](http://needy-volcano.surge.sh/)
 
 ## React Pig Dice
 Play pig dice against the computer.
