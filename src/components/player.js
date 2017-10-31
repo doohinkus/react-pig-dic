@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Buttons from "./buttons";
 import chip from "../img/pig-chip.svg";
+import pig from "../img/pig-pixel.svg";
 import one from "../img/1.svg";
 import two from "../img/2.svg";
 import three from "../img/3.svg";
@@ -26,7 +27,7 @@ class Player extends Component {
         <div className="ma3 pa2 white w-80 center">
           <h1>{this.props.name}</h1>
 
-          <img src={chip} className="h3" />
+          <img src={pig} className="h3" />
 
           <h2 className="mb0">Roll</h2>
           <p className="mb0">{this.props.roll}</p>

@@ -196,9 +196,9 @@ class Game extends Component{
    return (
        <div className="tc rubik cf">
          {players}
-         <div className="mt1 w-100 tc">
+         <div className={this.state.players[0].playing || this.state.players[1].playing ? "hide" : "mt1 w-100 tc"}>
              <a className="bg-red pointer pa2" onClick={()=>{
-                 // this.newGame();
+                 this.newGame();
                }}>New Game</a>
          </div>
        </div>
