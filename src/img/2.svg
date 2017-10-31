@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="400" width="350" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata7">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -10,7 +10,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="layer1" fill-rule="nonzero" transform="translate(1050,-1427.3622)">
+ <g id="layer1" fill-rule="nonzero" transform="translate(1000,-1027.3622)">
   <path id="rect3757" style="enable-background:accumulate;color:#000000;" d="m-100,50,25,0,0,25-25,0z" transform="translate(0,827.36218)" fill="#fa57ef"/>
   <path id="rect3757-3" style="enable-background:accumulate;color:#000000;" d="m-75,877.36,25,0,0,25-25,0z" fill="#fc8ef4"/>
   <path id="rect3757-6" style="enable-background:accumulate;color:#000000;" d="m-125,877.36,25,0,0,25-25,0z" fill="#f810e8"/>
@@ -191,102 +191,104 @@
   <path id="rect3757-7-87-3-4" style="enable-background:accumulate;color:#000000;" d="m150,1002.4,25,0,0,25-25,0z" fill="#000"/>
   <path id="rect3757-7-87-3-2" style="enable-background:accumulate;color:#000000;" d="m225,1002.4,25,0,0,25-25,0z" fill="#000"/>
   <path id="path5496" style="enable-background:accumulate;color:#000000;" d="m375,927.36-25,0,0,25,25,0z" fill="#000"/>
-  <path id="rect3757-7-0-4" style="enable-background:accumulate;color:#000000;" d="m-25,1352.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-1" style="enable-background:accumulate;color:#000000;" d="m-50,1377.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-2" style="enable-background:accumulate;color:#000000;" d="m-50,1377.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-8" style="enable-background:accumulate;color:#000000;" d="m-25,1352.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-89" style="enable-background:accumulate;color:#000000;" d="m-50,1402.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-88" style="enable-background:accumulate;color:#000000;" d="m-25,1427.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-6" style="enable-background:accumulate;color:#000000;" d="m0,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-83" style="enable-background:accumulate;color:#000000;" d="m0,1352.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-833" style="enable-background:accumulate;color:#000000;" d="m25,1352.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-80" style="enable-background:accumulate;color:#000000;" d="m50,1377.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-47" style="enable-background:accumulate;color:#000000;" d="m75,1402.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-68" style="enable-background:accumulate;color:#000000;" d="m75,1427.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-9" style="enable-background:accumulate;color:#000000;" d="m75,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-0" style="enable-background:accumulate;color:#000000;" d="m100,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-687" style="enable-background:accumulate;color:#000000;" d="m150,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-90" style="enable-background:accumulate;color:#000000;" d="m125,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-3" style="enable-background:accumulate;color:#000000;" d="m175,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-33" style="enable-background:accumulate;color:#000000;" d="m-25,1477.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-7" style="enable-background:accumulate;color:#000000;" d="m-50,1502.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-32" style="enable-background:accumulate;color:#000000;" d="m-50,1527.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-65" style="enable-background:accumulate;color:#000000;" d="m-50,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-26" style="enable-background:accumulate;color:#000000;" d="m-50,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-5" style="enable-background:accumulate;color:#000000;" d="m-50,1602.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-87" style="enable-background:accumulate;color:#000000;" d="m50,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-96" style="enable-background:accumulate;color:#000000;" d="m75,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-04" style="enable-background:accumulate;color:#000000;" d="m75,1527.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-10" style="enable-background:accumulate;color:#000000;" d="m125,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-48" style="enable-background:accumulate;color:#000000;" d="m100,1602.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-86" style="enable-background:accumulate;color:#000000;" d="m100,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-24" style="enable-background:accumulate;color:#000000;" d="m125,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-79" style="enable-background:accumulate;color:#000000;" d="m150,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-39" style="enable-background:accumulate;color:#000000;" d="m175,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-28" style="enable-background:accumulate;color:#000000;" d="m198,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-30" style="enable-background:accumulate;color:#000000;" d="m225,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-17" style="enable-background:accumulate;color:#000000;" d="m250,1602.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-891" style="enable-background:accumulate;color:#000000;" d="m250,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-54" style="enable-background:accumulate;color:#000000;" d="m225,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-92" style="enable-background:accumulate;color:#000000;" d="m200,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-57" style="enable-background:accumulate;color:#000000;" d="m175,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-49" style="enable-background:accumulate;color:#000000;" d="m150,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-59" style="enable-background:accumulate;color:#000000;" d="m150,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-35" style="enable-background:accumulate;color:#000000;" d="m200,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-70" style="enable-background:accumulate;color:#000000;" d="m200,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-99" style="enable-background:accumulate;color:#000000;" d="m275,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-78" style="enable-background:accumulate;color:#000000;" d="m300,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-34" style="enable-background:accumulate;color:#000000;" d="m300,1527.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-902" style="enable-background:accumulate;color:#000000;" d="m200,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-01" style="enable-background:accumulate;color:#000000;" d="m250,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-962" style="enable-background:accumulate;color:#000000;" d="m275,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-12" style="enable-background:accumulate;color:#000000;" d="m225,1452.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="path5901" style="enable-background:accumulate;color:#000000;" d="m401,1352.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5903" style="enable-background:accumulate;color:#000000;" d="m426,1377.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5905" style="enable-background:accumulate;color:#000000;" d="m426,1377.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5907" style="enable-background:accumulate;color:#000000;" d="m401,1352.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5909" style="enable-background:accumulate;color:#000000;" d="m426,1402.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5911" style="enable-background:accumulate;color:#000000;" d="m401,1427.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5913" style="enable-background:accumulate;color:#000000;" d="m376,1452.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5915" style="enable-background:accumulate;color:#000000;" d="m376,1352.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5917" style="enable-background:accumulate;color:#000000;" d="m351,1352.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5919" style="enable-background:accumulate;color:#000000;" d="m326,1377.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5921" style="enable-background:accumulate;color:#000000;" d="m301,1402.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5923" style="enable-background:accumulate;color:#000000;" d="m301,1427.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5925" style="enable-background:accumulate;color:#000000;" d="m301,1452.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="path5927" style="enable-background:accumulate;color:#000000;" d="m401,1477.4-25,0,0,25,25,0z" fill="#000"/>
-  <path id="rect3757-7-0-07" style="enable-background:accumulate;color:#000000;" d="m400,1502.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-31" style="enable-background:accumulate;color:#000000;" d="m400,1527.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-19" style="enable-background:accumulate;color:#000000;" d="m400,1577.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-05" style="enable-background:accumulate;color:#000000;" d="m400,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-67" style="enable-background:accumulate;color:#000000;" d="m400,1552.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-74" style="enable-background:accumulate;color:#000000;" d="m400,1602.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-06" style="enable-background:accumulate;color:#000000;" d="m-50,1627.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-474" style="enable-background:accumulate;color:#000000;" d="m-50,1652.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-85" style="enable-background:accumulate;color:#000000;" d="m400,1652.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-82" style="enable-background:accumulate;color:#000000;" d="m-25,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-60" style="enable-background:accumulate;color:#000000;" d="m375,1677.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-66" style="enable-background:accumulate;color:#000000;" d="m0,1702.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-46" style="enable-background:accumulate;color:#000000;" d="m350,1702.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-289" style="enable-background:accumulate;color:#000000;" d="m25,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-607" style="enable-background:accumulate;color:#000000;" d="m325,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-010" style="enable-background:accumulate;color:#000000;" d="m50,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-13" style="enable-background:accumulate;color:#000000;" d="m75,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-77" style="enable-background:accumulate;color:#000000;" d="m100,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-264" style="enable-background:accumulate;color:#000000;" d="m150,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-52" style="enable-background:accumulate;color:#000000;" d="m175,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-02" style="enable-background:accumulate;color:#000000;" d="m125,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-909" style="enable-background:accumulate;color:#000000;" d="m200,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-945" style="enable-background:accumulate;color:#000000;" d="m225,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-103" style="enable-background:accumulate;color:#000000;" d="m250,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-788" style="enable-background:accumulate;color:#000000;" d="m275,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-604" style="enable-background:accumulate;color:#000000;" d="m300,1727.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-676" style="enable-background:accumulate;color:#000000;" d="m100,1652.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-09" style="enable-background:accumulate;color:#000000;" d="m250,1652.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-75" style="enable-background:accumulate;color:#000000;" d="m0,1402.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-97" style="enable-background:accumulate;color:#000000;" d="m25,1427.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-853" style="enable-background:accumulate;color:#000000;" d="m350,1402.4,25,0,0,25-25,0z" fill="#000"/>
-  <path id="rect3757-7-0-38" style="enable-background:accumulate;color:#000000;" d="m325,1427.4,25,0,0,25-25,0z" fill="#000"/>
+  <g id="g8713" fill="#000">
+   <path id="rect3757-7-0-4" style="enable-background:accumulate;color:#000000;" d="m-25,1352.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-1" style="enable-background:accumulate;color:#000000;" d="m-50,1377.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-2" style="enable-background:accumulate;color:#000000;" d="m-50,1377.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-8" style="enable-background:accumulate;color:#000000;" d="m-25,1352.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-89" style="enable-background:accumulate;color:#000000;" d="m-50,1402.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-88" style="enable-background:accumulate;color:#000000;" d="m-25,1427.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-6" style="enable-background:accumulate;color:#000000;" d="m0,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-83" style="enable-background:accumulate;color:#000000;" d="m0,1352.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-833" style="enable-background:accumulate;color:#000000;" d="m25,1352.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-80" style="enable-background:accumulate;color:#000000;" d="m50,1377.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-47" style="enable-background:accumulate;color:#000000;" d="m75,1402.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-68" style="enable-background:accumulate;color:#000000;" d="m75,1427.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-9" style="enable-background:accumulate;color:#000000;" d="m75,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-0" style="enable-background:accumulate;color:#000000;" d="m100,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-687" style="enable-background:accumulate;color:#000000;" d="m150,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-90" style="enable-background:accumulate;color:#000000;" d="m125,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-3" style="enable-background:accumulate;color:#000000;" d="m175,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-33" style="enable-background:accumulate;color:#000000;" d="m-25,1477.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-7" style="enable-background:accumulate;color:#000000;" d="m-50,1502.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-32" style="enable-background:accumulate;color:#000000;" d="m-50,1527.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-65" style="enable-background:accumulate;color:#000000;" d="m-50,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-26" style="enable-background:accumulate;color:#000000;" d="m-50,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-5" style="enable-background:accumulate;color:#000000;" d="m-50,1602.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-87" style="enable-background:accumulate;color:#000000;" d="m50,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-96" style="enable-background:accumulate;color:#000000;" d="m75,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-04" style="enable-background:accumulate;color:#000000;" d="m75,1527.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-10" style="enable-background:accumulate;color:#000000;" d="m125,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-48" style="enable-background:accumulate;color:#000000;" d="m100,1602.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-86" style="enable-background:accumulate;color:#000000;" d="m100,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-24" style="enable-background:accumulate;color:#000000;" d="m125,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-79" style="enable-background:accumulate;color:#000000;" d="m150,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-39" style="enable-background:accumulate;color:#000000;" d="m175,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-28" style="enable-background:accumulate;color:#000000;" d="m198,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-30" style="enable-background:accumulate;color:#000000;" d="m225,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-17" style="enable-background:accumulate;color:#000000;" d="m250,1602.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-891" style="enable-background:accumulate;color:#000000;" d="m250,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-54" style="enable-background:accumulate;color:#000000;" d="m225,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-92" style="enable-background:accumulate;color:#000000;" d="m200,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-57" style="enable-background:accumulate;color:#000000;" d="m175,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-49" style="enable-background:accumulate;color:#000000;" d="m150,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-59" style="enable-background:accumulate;color:#000000;" d="m150,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-35" style="enable-background:accumulate;color:#000000;" d="m200,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-70" style="enable-background:accumulate;color:#000000;" d="m200,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-99" style="enable-background:accumulate;color:#000000;" d="m275,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-78" style="enable-background:accumulate;color:#000000;" d="m300,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-34" style="enable-background:accumulate;color:#000000;" d="m300,1527.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-902" style="enable-background:accumulate;color:#000000;" d="m200,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-01" style="enable-background:accumulate;color:#000000;" d="m250,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-962" style="enable-background:accumulate;color:#000000;" d="m275,1452.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-12" style="enable-background:accumulate;color:#000000;" d="m225,1452.4,25,0,0,25-25,0z"/>
+   <path id="path5901" style="enable-background:accumulate;color:#000000;" d="m401,1352.4-25,0,0,25,25,0z"/>
+   <path id="path5903" style="enable-background:accumulate;color:#000000;" d="m426,1377.4-25,0,0,25,25,0z"/>
+   <path id="path5905" style="enable-background:accumulate;color:#000000;" d="m426,1377.4-25,0,0,25,25,0z"/>
+   <path id="path5907" style="enable-background:accumulate;color:#000000;" d="m401,1352.4-25,0,0,25,25,0z"/>
+   <path id="path5909" style="enable-background:accumulate;color:#000000;" d="m426,1402.4-25,0,0,25,25,0z"/>
+   <path id="path5911" style="enable-background:accumulate;color:#000000;" d="m401,1427.4-25,0,0,25,25,0z"/>
+   <path id="path5913" style="enable-background:accumulate;color:#000000;" d="m376,1452.4-25,0,0,25,25,0z"/>
+   <path id="path5915" style="enable-background:accumulate;color:#000000;" d="m376,1352.4-25,0,0,25,25,0z"/>
+   <path id="path5917" style="enable-background:accumulate;color:#000000;" d="m351,1352.4-25,0,0,25,25,0z"/>
+   <path id="path5919" style="enable-background:accumulate;color:#000000;" d="m326,1377.4-25,0,0,25,25,0z"/>
+   <path id="path5921" style="enable-background:accumulate;color:#000000;" d="m301,1402.4-25,0,0,25,25,0z"/>
+   <path id="path5923" style="enable-background:accumulate;color:#000000;" d="m301,1427.4-25,0,0,25,25,0z"/>
+   <path id="path5925" style="enable-background:accumulate;color:#000000;" d="m301,1452.4-25,0,0,25,25,0z"/>
+   <path id="path5927" style="enable-background:accumulate;color:#000000;" d="m401,1477.4-25,0,0,25,25,0z"/>
+   <path id="rect3757-7-0-07" style="enable-background:accumulate;color:#000000;" d="m400,1502.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-31" style="enable-background:accumulate;color:#000000;" d="m400,1527.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-19" style="enable-background:accumulate;color:#000000;" d="m400,1577.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-05" style="enable-background:accumulate;color:#000000;" d="m400,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-67" style="enable-background:accumulate;color:#000000;" d="m400,1552.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-74" style="enable-background:accumulate;color:#000000;" d="m400,1602.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-06" style="enable-background:accumulate;color:#000000;" d="m-50,1627.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-474" style="enable-background:accumulate;color:#000000;" d="m-50,1652.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-85" style="enable-background:accumulate;color:#000000;" d="m400,1652.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-82" style="enable-background:accumulate;color:#000000;" d="m-25,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-60" style="enable-background:accumulate;color:#000000;" d="m375,1677.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-66" style="enable-background:accumulate;color:#000000;" d="m0,1702.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-46" style="enable-background:accumulate;color:#000000;" d="m350,1702.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-289" style="enable-background:accumulate;color:#000000;" d="m25,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-607" style="enable-background:accumulate;color:#000000;" d="m325,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-010" style="enable-background:accumulate;color:#000000;" d="m50,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-13" style="enable-background:accumulate;color:#000000;" d="m75,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-77" style="enable-background:accumulate;color:#000000;" d="m100,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-264" style="enable-background:accumulate;color:#000000;" d="m150,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-52" style="enable-background:accumulate;color:#000000;" d="m175,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-02" style="enable-background:accumulate;color:#000000;" d="m125,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-909" style="enable-background:accumulate;color:#000000;" d="m200,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-945" style="enable-background:accumulate;color:#000000;" d="m225,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-103" style="enable-background:accumulate;color:#000000;" d="m250,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-788" style="enable-background:accumulate;color:#000000;" d="m275,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-604" style="enable-background:accumulate;color:#000000;" d="m300,1727.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-676" style="enable-background:accumulate;color:#000000;" d="m100,1652.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-09" style="enable-background:accumulate;color:#000000;" d="m250,1652.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-75" style="enable-background:accumulate;color:#000000;" d="m0,1402.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-97" style="enable-background:accumulate;color:#000000;" d="m25,1427.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-853" style="enable-background:accumulate;color:#000000;" d="m350,1402.4,25,0,0,25-25,0z"/>
+   <path id="rect3757-7-0-38" style="enable-background:accumulate;color:#000000;" d="m325,1427.4,25,0,0,25-25,0z"/>
+  </g>
   <g id="g8499" fill="#000" transform="translate(100,149.99998)">
    <path id="path7888" style="enable-background:accumulate;color:#000000;" d="m-925,1527.4,25,0,0,25-25,0z"/>
    <path id="path7890" style="enable-background:accumulate;color:#000000;" d="m-950,1527.4,25,0,0,25-25,0z"/>
@@ -385,5 +387,63 @@
    <path id="path8549" style="enable-background:accumulate;color:#000000;" d="m-950,1552.4,25,0,0,25-25,0z"/>
    <path id="path8551" style="enable-background:accumulate;color:#000000;" d="m-925,1552.4,25,0,0,25-25,0z"/>
   </g>
+  <g id="g8572" fill="#000" transform="translate(0,149.99998)">
+   <path id="path8574" style="enable-background:accumulate;color:#000000;" d="m-925,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8576" style="enable-background:accumulate;color:#000000;" d="m-950,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8578" style="enable-background:accumulate;color:#000000;" d="m-950,1552.4,25,0,0,25-25,0z"/>
+   <path id="path8580" style="enable-background:accumulate;color:#000000;" d="m-925,1552.4,25,0,0,25-25,0z"/>
+  </g>
+  <g id="g8601" fill="#000" transform="translate(100,-2e-5)">
+   <path id="path8603" style="enable-background:accumulate;color:#000000;" d="m-925,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8605" style="enable-background:accumulate;color:#000000;" d="m-950,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8607" style="enable-background:accumulate;color:#000000;" d="m-950,1552.4,25,0,0,25-25,0z"/>
+   <path id="path8609" style="enable-background:accumulate;color:#000000;" d="m-925,1552.4,25,0,0,25-25,0z"/>
+  </g>
+  <g id="g8630" fill="#000" transform="translate(0,74.99998)">
+   <path id="path8632" style="enable-background:accumulate;color:#000000;" d="m-925,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8634" style="enable-background:accumulate;color:#000000;" d="m-950,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8636" style="enable-background:accumulate;color:#000000;" d="m-950,1552.4,25,0,0,25-25,0z"/>
+   <path id="path8638" style="enable-background:accumulate;color:#000000;" d="m-925,1552.4,25,0,0,25-25,0z"/>
+  </g>
+  <g id="g8659" fill="#000" transform="translate(100,74.99998)">
+   <path id="path8661" style="enable-background:accumulate;color:#000000;" d="m-925,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8663" style="enable-background:accumulate;color:#000000;" d="m-950,1527.4,25,0,0,25-25,0z"/>
+   <path id="path8665" style="enable-background:accumulate;color:#000000;" d="m-950,1552.4,25,0,0,25-25,0z"/>
+   <path id="path8667" style="enable-background:accumulate;color:#000000;" d="m-925,1552.4,25,0,0,25-25,0z"/>
+  </g>
+  <g id="g8696" transform="translate(-50,224.99998)">
+   <path id="path8688" style="enable-background:accumulate;color:#000000;" fill="#fa57ef" d="m-75,1252.4,25,0,0,25-25,0z"/>
+   <path id="path8690" style="enable-background:accumulate;color:#000000;" d="m-50,1252.4,25,0,0,25-25,0z" fill="#FFF"/>
+   <path id="path8692" style="enable-background:accumulate;color:#000000;" d="m-100,1252.4,25,0,0,25-25,0z" fill="#f810e8"/>
+   <path id="path8694" style="enable-background:accumulate;color:#000000;" d="m-125,1252.4,25,0,0,25-25,0z" fill="#000"/>
+   <path id="path8690-6" style="enable-background:accumulate;color:#000000;" d="m100,1302.4,25,0,0,25-25,0z" fill="#FFF"/>
+  </g>
+  <path id="path8813" style="enable-background:accumulate;color:#000000;" d="m1076,286.76,0-12.143-12.857,0-12.857,0,0-12.857,0-12.857-12.143,0-12.143,0,0-86.429,0-86.429,12.143,0,12.143,0,0-12.857,0-12.857,12.857,0,12.857,0,0-12.143,0-12.143,12.143,0,12.143,0,0-13.571,0-13.571-12.143,0-12.143,0,0-12.143,0-12.143-13.571,0-13.571,0,0,12.143,0,12.143-11.429,0-11.429,0,0-24.286,0-24.286,36.373,0,36.373,0,0.4128,12.5,0.4128,12.5,12.5,0.41276,12.5,0.41276,0,37.087,0,37.087,113.57,0,113.57,0,0-37.143,0-37.143,12.143,0,12.143,0,0-12.857,0-12.857,37.143,0,37.143,0,0,24.286,0,24.286-12.143,0-12.143,0,0-12.143,0-12.143-13.571,0-13.571,0,0,12.143,0,12.143-12.143,0-12.143,0,0,13.571,0,13.571,12.857,0,12.857,0,0,12.143,0,12.143,12.857,0,12.857,0,0,12.857,0,12.857,11.429,0,11.429,0,0,86.429,0,86.429-12.143,0-12.143,0,0,12.857,0,12.857-12.857,0-12.857,0,0,12.143,0,12.143-161.43,0-161.43,0,0-12.143zm224.29-23.571,0-12.857,12.857,0,12.857,0,0-37.857,0-37.857-12.857,0-12.857,0,0-12.857,0-12.857-62.857,0-62.857,0,0,12.857,0,12.857-12.857,0-12.857,0,0,37.857,0,37.857,12.857,0,12.857,0,0,12.857,0,12.857,62.857,0,62.857,0,0-12.857zm-150-138.57,0-25.714-12.857,0-12.857,0,0,12.857,0,12.857-12.857,0-12.857,0,0,12.857,0,12.857,25.714,0,25.714,0,0-25.714zm225.39,0.35714-0.3901-25.357-12.857,0-12.857,0-0.4128,12.5-0.4128,12.5-12.087,0-12.087,0,0,12.857,0,12.857,25.747,0,25.747,0-0.3902-25.357z" transform="translate(-1050,1427.3622)" fill="#fa57ef"/>
+  <path id="path8815" style="enable-background:accumulate;color:#000000;" d="m1175,212.74,0-36.871,62.124,0,62.124,0,0,36.871,0,36.871-62.124,0-62.124,0,0-36.871zm50.285-0.25254-0.2827-12.879-12.627,0-12.627,0-0.2827,12.879-0.2828,12.879,13.192,0,13.192,0-0.2827-12.879zm49.72-0.28362,0-13.163-12.374,0.28363-12.374,0.28363-0.2827,12.879-0.2827,12.879,12.657,0,12.657,0,0-13.163z" transform="translate(-1050,1427.3622)" fill="#f810e8"/>
+  <path id="path8692-6" style="enable-background:accumulate;color:#000000;" d="m-150,1527.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-1" style="enable-background:accumulate;color:#000000;" d="m-25,1402.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-0" style="enable-background:accumulate;color:#000000;" d="m25,1452.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-5" style="enable-background:accumulate;color:#000000;" d="m0,1477.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-11" style="enable-background:accumulate;color:#000000;" d="m-25,1502.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-03" style="enable-background:accumulate;color:#000000;" d="m-25,1527.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-00" style="enable-background:accumulate;color:#000000;" d="m-25,1552.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-4" style="enable-background:accumulate;color:#000000;" d="m-25,1577.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-54" style="enable-background:accumulate;color:#000000;" d="m-25,1602.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-2" style="enable-background:accumulate;color:#000000;" d="m-25,1627.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-49" style="enable-background:accumulate;color:#000000;" d="m-25,1652.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-9" style="enable-background:accumulate;color:#000000;" d="m0,1677.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8692-6-94" style="enable-background:accumulate;color:#000000;" d="m25,1702.4,25,0,0,25-25,0z" fill="#c606b9"/>
+  <path id="path8690-3" style="enable-background:accumulate;color:#000000;" d="m50,1527.4,25,0,0,25-25,0z" fill="#FFF"/>
+  <path id="path8690-9" style="enable-background:accumulate;color:#000000;" d="m275,1527.4,25,0,0,25-25,0z" fill="#FFF"/>
+  <g id="g9285" fill="#000" transform="translate(475,-25.000003)">
+   <rect id="rect9287" style="enable-background:accumulate;color:#000000;" height="25" width="25" y="1127.4" x="-900"/>
+   <rect id="rect9289" style="enable-background:accumulate;color:#000000;" height="25" width="25" y="1152.4" x="-900"/>
+   <rect id="rect9291" style="enable-background:accumulate;color:#000000;" height="25" width="25" y="1127.4" x="-875"/>
+   <rect id="rect9293" style="enable-background:accumulate;color:#000000;" height="25" width="25" y="1152.4" x="-875"/>
+   <rect id="rect9295" style="enable-background:accumulate;color:#000000;" height="25" width="25" y="1152.4" x="-875"/>
+  </g>
+  <path id="rect10615" style="enable-background:accumulate;color:#000000;" d="m25,25,250,0,0,250-250,0z" transform="translate(-1000,1027.3622)" fill="#FFF"/>
+  <rect id="rect12745" style="enable-background:accumulate;color:#000000;" height="50" width="50" y="1077.4" x="-950" fill="#F11"/>
+  <rect id="rect12747" style="enable-background:accumulate;color:#000000;" height="50" width="50" y="1227.4" x="-800" fill="#F11"/>
  </g>
 </svg>
