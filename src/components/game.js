@@ -135,6 +135,33 @@ class Game extends Component{
       }
     }
   }
+
+  newGame(){
+    this.setState(
+      {
+        players: [
+          {
+             playerName: "Human",
+             roll: 0,
+             score: 0,
+             runningTotal: 0,
+             playing: true,
+             victory: false,
+             showButtons: true
+          },
+          {
+             playerName: "Computer",
+             roll: 0,
+             score: 0,
+             runningTotal: 0,
+             playing: false,
+             victory: false,
+             showButtons:false
+          }
+        ]
+      }
+    );
+  }
   componentDidMount(){
     this.interval = setInterval(()=>{
      this.computerRoll();
@@ -167,8 +194,13 @@ class Game extends Component{
       )
    });
    return (
-       <div className="tc rubik cf vh-20">
+       <div className="tc rubik cf">
          {players}
+         <div className="mt1 w-100 tc">
+             <a className="bg-red pointer pa2" onClick={()=>{
+                 // this.newGame();
+               }}>New Game</a>
+         </div>
        </div>
    )
  }
